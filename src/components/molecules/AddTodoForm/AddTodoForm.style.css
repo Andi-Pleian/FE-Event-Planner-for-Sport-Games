@@ -1,0 +1,9 @@
+.add-todo-form {
+  width: 100%;
+}
+
+.add-todo-form-row {
+  display: flex;
+  justify-content: center;
+  margin-top: 10px;
+}

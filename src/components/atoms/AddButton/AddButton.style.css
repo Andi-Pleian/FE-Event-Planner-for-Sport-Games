@@ -1,0 +1,17 @@
+.add-button {
+  color: white;
+  font-weight: bold;
+  padding: 10px;
+  font-size: 18px;
+  border-radius: 10px;
+  border: none;
+  width: 100%;
+  box-shadow: 1px 1px 0px 2px rgba (0, 0, 0, 0.3);
+  background: rgb(141, 217, 252);
+  cursor: pointer;
+}
+
+.add-button:disabled {
+  background-color: lightgray;
+  cursor: default;
+}
