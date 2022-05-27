@@ -1,0 +1,24 @@
+.title-see-events {
+    font-size: 1.5em;
+    font-weight: bold;
+    color: #fff;
+    text-align: top;
+    margin-bottom: 20px;
+    justify-content: top;
+    align-items: top;
+    display: flex;
+    margin-top: 70px;
+}
+
+.background-see-events {
+    background: linear-gradient(135deg, #850c62, #f80759);
+    width: 100%;
+    min-height: 100vh;
+    display: flex;
+    justify-content: center;
+}
+
+.container {
+    display: flex;
+    align-items: center;
+}   
